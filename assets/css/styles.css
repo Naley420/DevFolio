@@ -31,12 +31,16 @@ html {
     width: 100%;
 }
 
-.col-half {
+.col-2 {
     width: 50%;
 }
 
-.col-third {
+.col-3 {
     width: 33.33333%;
+}
+
+.col-4 {
+    width: 25%;
 }
 
 .pull-right {
@@ -47,33 +51,14 @@ html {
     float: left;
 }
 
+.btn {
+
+}
+
 #main {
 
 }
 
-#header {
-    height: 64px;
-    background-color: #000;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 1;
-}
-
-#header h1 {
-    line-height: 64px;
-    cursor: pointer;
-    float: left;
-    margin-left: 15%;
-}
-
-#header .logo {
-    color: #fff;
-    font-size: 28px;
-    font-weight: 600;
-    letter-spacing: 1px;
-}
 
 
 
